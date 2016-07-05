@@ -1,0 +1,9 @@
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\obj\Debug\spiderAlpha.MainForm.resources
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\obj\Debug\spiderAlpha.Properties.Resources.resources
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\obj\Debug\spiderAlpha.csproj.GenerateResource.Cache
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\bin\Debug\spiderAlpha.exe.config
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\bin\Debug\MainDB.mdb
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\bin\Debug\spiderAlpha.exe
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\bin\Debug\spiderAlpha.pdb
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\obj\Debug\spiderAlpha.exe
+c:\users\weimi\documents\visual studio 2015\Projects\spiderAlpha\spiderAlpha\obj\Debug\spiderAlpha.pdb
